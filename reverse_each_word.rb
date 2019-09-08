@@ -3,8 +3,9 @@ def reverse_each_word(string)
   
   array.each do |element|
     element = element.revered
+    element
   end
     
-    
+  array
 end
 
